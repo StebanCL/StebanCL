@@ -12,7 +12,7 @@ I am a solution architect focused on **logic and analysis**. My core methodology
 
 ### 🛠️ Tech Stack Used In My Projects...
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,mysql,sqlite,py,flask" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,sqlite,py,flask" />
 </p>
 
 | Domain | Expertise |
