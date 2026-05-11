@@ -25,7 +25,9 @@ I am a solution architect focused on **logic and analysis**. My core methodology
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Steban_CL&show_icons=true&theme=default&hide_border=false&include_all_commits=true](https://awesome-github-stats.azurewebsites.net/user-stats/StebanCL?cardType=level&fontFamily=&preferLogin=false)" alt="GitHub Stats" height="180" />
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/StebanCL?cardType=level&fontFamily=Fira+Code&preferLogin=false" alt="My Awesome Stats" height="180" />
+  </a>
 </p>
 
 ---
