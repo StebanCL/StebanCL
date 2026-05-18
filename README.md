@@ -18,7 +18,7 @@ I am a solution architect focused on **logic and analysis**. My core methodology
 | Domain | Expertise |
 | :--- | :--- |
 | **Frontend** | DOM Manipulation, React, and Responsive Design. |
-| **Backend** | Server-side logic with Laravel, Python, and Flask. |
+| **Backend** | Server-side logic with Python and Flask. |
 | **Analysis** | MER Modeling, SQLite, and Requirements Elicitation (ADSO). |
 
 ---
